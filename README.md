@@ -14,7 +14,13 @@
 * hello
   - bye
 
-**To insert image** 
+**To insert image**
+-------------------------------------------
+
 ![GitHub](https://static.coindesk.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-07-at-5.23.11-PM-345x222.png)
+
+| Name | Age |
+|----|----|
+| Junaid | 18 |
 
 
